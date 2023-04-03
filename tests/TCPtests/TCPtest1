@@ -1,0 +1,12 @@
+HELLO
+SOLVE (+ 1 2)
+SOLVE (- 10 3)
+SOLVE (* 4 5)
+SOLVE (/ 20 5)
+SOLVE (+ 2 (* 3 4))
+SOLVE (- (/ 15 3) 2)
+SOLVE (* 2 (+ 3 4) (/ 6 2))
+SOLVE (/ (* 5 2) (- 10 2))
+SOLVE (+ (* 2 3) (* 4 5) (- 6 1))
+SOLVE (/ (* 10 2) (+ 2 2 1))
+BYE

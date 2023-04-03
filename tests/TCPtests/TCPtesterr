@@ -1,0 +1,6 @@
+HELLO
+SOLVE (+ 1 2)
+SOLVE (- 10 3)
+SOLVE (* 4 5)
+SOLVE (/ 20 5)
+SOLVE asdf
